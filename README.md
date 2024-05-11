@@ -45,12 +45,22 @@ Also, below we have diagrams for each data structure where the difference can be
 
 ![WhatsApp Image 2024-05-11 at 15 17 32_236b1924](https://github.com/teodorma/Sorting_Algorithms/assets/127875348/d3749842-87d0-4523-b7a5-5e70e2825a03)
 
+![a](https://github.com/teodorma/AdvancedDataStructures/assets/127875348/f82f2361-a6be-45d7-81f9-cf1e1e66e606)
+
+
 
 
 
 ## Key Findings
 
 - **Skip List**: Demonstrates excellent performance in search, insertion, and deletion operations, especially in scenarios where maintaining strict balance is not a priority. Its probabilistic nature allows for efficient handling of large datasets and varying element distributions. However, its performance might degrade slightly in highly balanced or ordered datasets.
+
+
+
+Below is a table displaying the total time for 100000 numbers, horizontally representing the probability of the coin flip, and vertically the number of levels
+
+![Tablea10](https://github.com/teodorma/AdvancedDataStructures/assets/127875348/bb706935-065b-4b6f-b436-7f367e684400)
+
 - **Red-Black Tree**: Shows robust performance across various datasets, offering logarithmic time complexity for search, insertion, and deletion operations. Its strong balance guarantees make it particularly suitable for applications where maintaining overall tree balance is essential. However, the overhead associated with enforcing these balance rules may slightly affect performance compared to Skip List and AVL Tree in certain scenarios.
 - **AVL Tree**: Exhibits consistent efficiency in maintaining strict height balance, ensuring logarithmic time complexity for all operations. Its rigid balancing requirements make it well-suited for applications where maintaining precise height balance is crucial. However, the stricter balancing rules may result in slightly higher overhead compared to Skip List and Red-Black Tree, particularly in insertion and deletion operations.
 
