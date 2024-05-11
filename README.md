@@ -26,24 +26,24 @@ For the following tables, the numbers were generated as:
 
 - increasing
 
-![Tablea1](https://github.com/teodorma/Sorting_Algorithms/assets/127875348/29cab45f-1315-4ed6-8d3a-0c856c245daf)
+![Tablea1](https://github.com/teodorma/AdvancedDataStructures/assets/127875348/ba0d111d-310c-4adb-a561-c315ef212a3f)
 
 - decreasing
 
-![Tablea2](https://github.com/teodorma/Sorting_Algorithms/assets/127875348/875260aa-6e37-4d51-8c95-5fe274cb852a)
+![Tablea2](https://github.com/teodorma/AdvancedDataStructures/assets/127875348/792e1645-d84a-4c83-b7e9-0e03bec64a14)
 
 - random
 
-![Tablea3](https://github.com/teodorma/Sorting_Algorithms/assets/127875348/8d8c606e-21f2-41aa-9fb0-223b1a2be823)
+![Tablea3](https://github.com/teodorma/AdvancedDataStructures/assets/127875348/823a96e7-1c67-4afa-8981-f6fba51ac0e6)
 
 Also, below we have diagrams for each data structure where the difference can be observed when generating random, increasing, and decreasing numbers for each operation.
 
 
-![WhatsApp Image 2024-05-11 at 15 17 32_fab12f5c](https://github.com/teodorma/Sorting_Algorithms/assets/127875348/5f7e65b1-76c1-46b6-b840-e347f89504df)
+![WhatsApp Image 2024-05-11 at 15 17 32_236b1924](https://github.com/teodorma/AdvancedDataStructures/assets/127875348/b7148354-7be5-480e-a0c6-19221b1fe982)
 
-![WhatsApp Image 2024-05-11 at 15 17 32_a4b78856](https://github.com/teodorma/Sorting_Algorithms/assets/127875348/48f8a879-3d1f-47b4-801e-1a510894a683)
+![WhatsApp Image 2024-05-11 at 15 17 32_a4b78856](https://github.com/teodorma/AdvancedDataStructures/assets/127875348/36f49b42-8bc8-41fb-8d6b-fe8e2692325d)
 
-![WhatsApp Image 2024-05-11 at 15 17 32_236b1924](https://github.com/teodorma/Sorting_Algorithms/assets/127875348/d3749842-87d0-4523-b7a5-5e70e2825a03)
+![WhatsApp Image 2024-05-11 at 15 17 32_fab12f5c](https://github.com/teodorma/AdvancedDataStructures/assets/127875348/84be5e22-36c6-4de1-903a-87324ed7b965)
 
 ![a](https://github.com/teodorma/AdvancedDataStructures/assets/127875348/f82f2361-a6be-45d7-81f9-cf1e1e66e606)
 
