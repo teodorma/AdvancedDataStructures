@@ -14,7 +14,7 @@ We compare the performance of the following three data structure:
 
 ## Performance Evaluation
 
-To evaluate the performance of these data structures, we conducted a series of tests varying the datasets. Below are the tables and diagrams showing the execution times of the required operations, where we have:
+To evaluate the performance of these data structures, we conducted a series of tests varying the datasets. Below are the tables and diagrams showing the execution times of the required operations, where we have tested on 100,000 numbers (with the skip list having 10 levels and a coin flip chance of 10%)
 - 1: insert the number X into the set
 - 2: delete the number X from the set (if it exists)
 - 3: display 1 if the number X is in the set, otherwise display 0
